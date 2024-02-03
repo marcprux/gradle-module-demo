@@ -1,0 +1,5 @@
+
+fun xxx() {
+    print("ModuleB")
+}
+
